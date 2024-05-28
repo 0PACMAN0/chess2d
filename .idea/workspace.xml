@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e91c3360-c1f9-4273-8d85-1b0f0ff9b569" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chess.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-bishop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-king.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-pawn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/b-rook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-bishop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-king.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-pawn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/piece/w-rook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piece/Rook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chess.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +58,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/pc/chess/res/piece"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\chess\res\piece" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +77,18 @@
       <option name="presentableId" value="Default" />
       <updated>1716865951944</updated>
     </task>
+    <task id="LOCAL-00001" summary="starting the project testing git on ide">
+      <created>1716866570826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716866570826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting the project testing git on ide" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting the project testing git on ide" />
   </component>
 </project>
